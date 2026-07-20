@@ -36,8 +36,8 @@ Mục tiêu của repository này là:
 
 ## 🟢 Giai đoạn 1 — Kiến thức nền tảng
 
-* [ ] Ôn tập Python
-* [ ] NumPy
+* [X] Ôn tập Python
+* [X] NumPy
 * [ ] Pandas
 * [ ] Matplotlib
 * [ ] Seaborn
