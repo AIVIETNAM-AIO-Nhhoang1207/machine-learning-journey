@@ -32,92 +32,6 @@ Mục tiêu của repository này là:
 
 ---
 
-# 🗺️ Lộ trình học
-
-## 🟢 Giai đoạn 1 — Kiến thức nền tảng
-
-* [X] Ôn tập Python
-* [X] NumPy
-* [ ] Pandas
-* [ ] Matplotlib
-* [ ] Seaborn
-* [ ] Thống kê
-* [ ] Xác suất
-* [ ] Đại số tuyến tính
-* [ ] Giải tích cho Machine Learning
-
----
-
-## 🔵 Giai đoạn 2 — Machine Learning
-
-* [ ] Tiền xử lý dữ liệu
-* [ ] Feature Engineering
-* [ ] Linear Regression
-* [ ] Logistic Regression
-* [ ] K-Nearest Neighbors (KNN)
-* [ ] Decision Tree
-* [ ] Random Forest
-* [ ] Support Vector Machine (SVM)
-* [ ] Naive Bayes
-* [ ] Clustering
-* [ ] Principal Component Analysis (PCA)
-* [ ] Ensemble Learning
-* [ ] Đánh giá mô hình
-* [ ] Hyperparameter Tuning
-
----
-
-## 🟣 Giai đoạn 3 — Deep Learning
-
-* [ ] Neural Network
-* [ ] PyTorch
-* [ ] Convolutional Neural Network (CNN)
-* [ ] Recurrent Neural Network (RNN)
-* [ ] Transformer
-* [ ] Transfer Learning
-
----
-
-## 🔴 Giai đoạn 4 — Triển khai mô hình
-
-* [ ] Streamlit
-* [ ] FastAPI
-* [ ] Docker
-* [ ] MLflow
-* [ ] CI/CD
-* [ ] Cloud Deployment
-
----
-
-# 📂 Cấu trúc Repository
-
-```text
-machine-learning-journey/
-│
-├── notes/                 # Ghi chú trong quá trình học
-├── notebooks/             # Notebook thực hành
-├── exercises/             # Bài tập
-├── mini-projects/         # Các dự án nhỏ
-├── datasets/              # Dữ liệu mẫu
-├── assets/                # Hình ảnh dùng trong README
-├── requirements.txt
-└── README.md
-```
-
----
-
-# 📈 Tiến độ học tập
-
-| Chủ đề                | Trạng thái |
-| --------------------- | ---------- |
-| Python                | ⏳          |
-| NumPy                 | ⏳          |
-| Pandas                | ⏳          |
-| Trực quan hóa dữ liệu | ⏳          |
-| Thống kê              | ⏳          |
-| Machine Learning      | ⏳          |
-| Deep Learning         | ⏳          |
-| Triển khai mô hình    | ⏳          |
 
 ---
 
@@ -136,15 +50,6 @@ Trong quá trình học mình sẽ tham khảo từ nhiều nguồn khác nhau, 
 
 ---
 
-# 🚀 Dự án
-
-Các dự án sẽ được cập nhật trong quá trình học.
-
-| Dự án         | Nội dung | Trạng thái |
-| ------------- | -------- | ---------- |
-| Đang cập nhật | 🚧       | ⏳          |
-
----
 
 # 📝 Nội dung sẽ có trong repository
 
